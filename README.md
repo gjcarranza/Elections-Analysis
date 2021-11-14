@@ -11,19 +11,28 @@ A Colorado Board of Elections has given you the following tasks to complete the 
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python 3.7.6, Visual Studio Code 1.62.0
 
 ## Summary
 The analysis of the election shows that:
+
 -There were 369,711 votes cast in the election
+
 -The candidates were:
+
   - Charles Casper Stockham
+  
   - Diana DeGette
+  
   - Raymon Anthony Doane
+
 -The candidate results were:
+
   - Charles Casper Stockham received 23.0% of the votes and 85,213 number of votes
   - Diana DeGette received 73.8% of the votes and 272,892 number of the votes 
   - Raymon Anthony Doane received 3.1% of the votes and 11,606 number of the votes
+ 
  -The winner of the election was:
   - Diana DeGette who received 73.8% of the vote and 272,892 number of votes
  - The county with the largest voter turnout is Denver who received 82.8% of the votes and 306,055 number of votes
